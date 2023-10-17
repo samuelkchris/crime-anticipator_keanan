@@ -65,11 +65,6 @@ The project utilizes the following programming languages:
 
 ## How to Use
 
-Provide instructions on how to use your project, including installation, configuration, and running the system.
-
-## Contributing
-
-Explain how others can contribute to your project, whether it's through bug reporting, feature requests, or code contributions.
 
 ## License
 
