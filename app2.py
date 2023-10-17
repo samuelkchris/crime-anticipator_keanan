@@ -9,7 +9,7 @@ from matplotlib import pyplot as plt
 from test import column_1
 
 endpoint = 'https://maps.googleapis.com/maps/api/geocode/json?address='
-key = 'AIzaSyDM8KzL_AFUOA9lfK7ZAFCo3I74k63jG24'
+key = ''
 
 app = Flask(__name__)
 
